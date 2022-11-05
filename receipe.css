@@ -1,0 +1,10 @@
+img{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    right: 50px; 
+    width: 56%;
+    animation: 1s animate ease-in-out;
+    width: 500px;
+    height: 500px;
+}
